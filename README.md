@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenu-github&label=Profile%20views&color=0e75b6&style=flat" alt="meenu-github" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenu-github" alt="meenu-github" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/84977514/125041334-dd070980-e055-11eb-9836-469256229887.png">
+<img align="right" alt="coding" width="400" src="https://github.com/Meenu-github/Meenu-github/blob/main/Programmer.jpg">
 
 - 👀 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
 
