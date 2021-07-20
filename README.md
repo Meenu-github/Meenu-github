@@ -7,10 +7,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenu-github" alt="meenu-github" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/Meenu-github/Meenu-github/blob/main/Programmer.jpg">
 
+## About me 👀
 
-- 👀 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
+- 🎆 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
 
-- 🔭 I’m currently working on [Donation App](https://github.com/Meenu-github/donationApp)
+- 🔭 I’m currently working on [Donation App source code](https://github.com/Meenu-github/donationApp)
+
+- ✨ My Project [Donation App](https://share.streamlit.io/meenu-github/donationapp/main/app.py)
+
+- 🎀 Easy project [Calculator code](https://github.com/Meenu-github/uplift-python-Resources-Meenu/blob/main/calculatorUsingStreamlit.py)
+
+- 🏆 My Calculator [Calculator](https://share.streamlit.io/meenu-github/uplift-python-resources-meenu/main/calculatorUsingStreamlit.py)
 
 - 🌱 I’m currently learning **Streamlit**
 
