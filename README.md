@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meenu Singh</h1>
-<h3 align="center">Just a learner</h3>
+<h3 align="center">I'm a CSE student, interested in logical thinking, coding. You can call me a learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenu-github&label=Profile%20views&color=0e75b6&style=flat" alt="meenu-github" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenu-github" alt="meenu-github" /></a> </p>
+
+- 👀 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
 
 - 🔭 I’m currently working on [Donation App](https://github.com/Meenu-github/donationApp)
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **meenakshi15sept2000@gmail.com**
 
-- ⚡ Fun fact **I can chill full year..**
+- ⚡ Fun fact **I can chill full year and if asked to chill more I can still do that😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
