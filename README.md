@@ -1,3 +1,4 @@
+<img align="center" alt="hello" width="500" src="https://github.com/Meenu-github/Meenu-github/blob/main/HeartyDifferentGentoopenguin-small.gif">
 <h1 align="center">Hi 👋, I'm Meenu Singh</h1>
 <h3 align="center">I'm a CSE student, interested in logical thinking, coding. You can call me a learner.</h3>
 
@@ -5,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenu-github" alt="meenu-github" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/Meenu-github/Meenu-github/blob/main/Programmer.jpg">
+
 
 - 👀 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
 
