@@ -1,8 +1,6 @@
-<img align="center" alt="hello" width="500" src="https://github.com/Meenu-github/Meenu-github/blob/main/HeartyDifferentGentoopenguin-small.gif">
-<h1 align="center">Hi 👋, I'm Meenu Singh</h1>
-<h3 align="center">I'm a CSE student, interested in logical thinking, coding. 
-                        You can call me a learner.
-                    Toped with some childish behaviour.</h3>
+<img align="left" alt="hello" width="300" src="https://github.com/Meenu-github/Meenu-github/blob/main/HeartyDifferentGentoopenguin-small.gif">
+<h1 align="center">I'm Meenu Singh</h1>
+<h3 align="center">I'm a CSE student, interested in logical thinking and coding. Toped with some childish behaviour.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenu-github&label=Profile%20views&color=0e75b6&style=flat" alt="meenu-github" /> </p>
 
