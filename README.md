@@ -9,6 +9,10 @@
 
 ## About me 👀
 
+- 🏆 My Developer Profile [Google developer profile](https://developers.google.com/profile/u/105309709868162965810)
+
+- 📌 My Portfolio [Devpost](https://devpost.com/meenubgp005)
+
 - 🎆 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
 
 - 🔭 I’m currently working on [Donation App source code](https://github.com/Meenu-github/donationApp)
@@ -16,8 +20,6 @@
 - ✨ My Project [Donation App](https://share.streamlit.io/meenu-github/donationapp/main/app.py)
 
 - 🎀 Easy project [Calculator code](https://github.com/Meenu-github/uplift-python-Resources-Meenu/blob/main/calculatorUsingStreamlit.py)
-
-- 🏆 My Calculator [Calculator](https://share.streamlit.io/meenu-github/uplift-python-resources-meenu/main/calculatorUsingStreamlit.py)
 
 - 🌱 I’m currently learning **Streamlit**
 
