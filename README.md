@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenu-github" alt="meenu-github" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/Meenu-github/Meenu-github/blob/main/Programmer.jpg">
 
-## About me 👀
+>## About me 👀
 
 - 🏆 My Developer Profile [Google developer profile](https://developers.google.com/profile/u/105309709868162965810)
 
-- 📌 My Portfolio [Devpost](https://devpost.com/meenubgp005)
+- 📌 My Devpost account [Devpost](https://devpost.com/meenubgp005)
 
 - 🎆 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
 
