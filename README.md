@@ -13,7 +13,7 @@
 
 - 📌 My Devpost account [Devpost](https://devpost.com/meenubgp005)
 
-- 🎆 I'm member at the [Team-Pythusiasts](https://github.com/Team-Pythusiasts)
+- 🎆 My [Portfolio](https://meenu.w3spaces.com/)
 
 - 🔭 I’m currently working on [Donation App source code](https://github.com/Meenu-github/donationApp)
 
