@@ -1,6 +1,6 @@
 <img align="left" alt="hello" width="300" src="https://github.com/Meenu-github/Meenu-github/blob/main/HeartyDifferentGentoopenguin-small.gif">
 <h1 align="center">I'm Meenu Singh</h1>
-<h3 align="center">I'm a CSE student, interested in logical thinking and coding. Toped with some childish behaviour.</h3>
+<h3 align="center">I'm a  software Engineer, with 2+ year of experience in backend development, I love logical thinking and coding. Toped with some childish behaviour.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenu-github&label=Profile%20views&color=0e75b6&style=flat" alt="meenu-github" /> </p>
 
